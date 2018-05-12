@@ -1,10 +1,16 @@
 _repo: Terry-s-Texas-Rangers_48103
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48103-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Giles, Leonidas B.
     gutenberg_agent_id: '44623'
     url: http://www.gutenberg.org/2009/agents/44623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48103#Terry-s-Texas-Rangers
 gutenberg_issued: '2015-01-29'
 gutenberg_type: Text
 identifiers:
